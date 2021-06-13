@@ -1,7 +1,7 @@
 ## Laboratory work IX
 
-Для команды go: https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-ubuntu-18-04-ru
-Для команды github-release: https://github.com/github-release/github-release 
+. Для команды go: https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-ubuntu-18-04-ru
+. Для команды github-release: https://github.com/github-release/github-release 
 
 ```sh
 $ export GITHUB_TOKEN=<полученный_токен>         #присваиваем сгенирированный токен в переменную GITHUB_TOKEN
